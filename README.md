@@ -4,9 +4,6 @@
 >  简而言之，可以把 [DynaBlocks](https://dynablocks.codelab.club) 看作国内版的 MicroBlocks。如果你打算在国内使用 MicroBlocks， DynaBlocks 应该会是最好的选择。 -- [DynaBlocks 编程案例: 使用 micro:bit 接管 xlight](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/dynablocks-microbit-xlight/)
 
 
-## 汉化
-[DynaBlocks](https://dynablocks.codelab.club) 使用本仓库里的汉化文件: `简体中文.txt`, 欢迎提 PR。
-
 ## 讨论
 相关讨论，在本仓库的 issue 中进行
 
